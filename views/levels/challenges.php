@@ -23,14 +23,15 @@
 
 <!-- Tab navigatie knoppen -->
 <div class="flex justify-center items-center space-x-4 mb-6">
-    <button class="py-2 px-4 bg-indigo-500 text-white rounded-md hover:bg-indigo-600 focus:outline-none" onclick="filterLevel('all')">Alle Levels</button>
-    <button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-gray-400 focus:outline-none" onclick="filterLevel('level1')">Level 1</button>
-    <button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-gray-400 focus:outline-none" onclick="filterLevel('level2')">Level 2</button>
-    <button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-gray-400 focus:outline-none" onclick="filterLevel('level3')">Level 3</button>
-    <button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-gray-400 focus:outline-none" onclick="filterLevel('level4')">Level 4</button>
-    <button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-gray-400 focus:outline-none" onclick="filterLevel('level5')">Level 5</button>
-    <button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-gray-400 focus:outline-none" onclick="filterLevel('level6')">Level 6</button>
-    <button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-gray-400 focus:outline-none" onclick="filterLevel('level7')">Level 7</button>
+<button class="py-2 px-4 bg-indigo-500 text-white rounded-md hover:bg-indigo-600 hover:scale-110 transition-transform duration-300 focus:outline-none" onclick="filterLevel('all')">Alle Levels</button>
+<button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-indigo-500 hover:scale-110 transition-transform duration-300 focus:outline-none" onclick="filterLevel('level1')">Level 1</button>
+<button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-indigo-500 hover:scale-110 transition-transform duration-300 focus:outline-none" onclick="filterLevel('level2')">Level 2</button>
+<button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-indigo-500 hover:scale-110 transition-transform duration-300 focus:outline-none" onclick="filterLevel('level3')">Level 3</button>
+<button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-indigo-500 hover:scale-110 transition-transform duration-300 focus:outline-none" onclick="filterLevel('level4')">Level 4</button>
+<button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-indigo-500 hover:scale-110 transition-transform duration-300 focus:outline-none" onclick="filterLevel('level5')">Level 5</button>
+<button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-indigo-500 hover:scale-110 transition-transform duration-300 focus:outline-none" onclick="filterLevel('level6')">Level 6</button>
+<button class="py-2 px-4 bg-gray-300 text-gray-800 rounded-md hover:bg-indigo-500 hover:scale-110 transition-transform duration-300 focus:outline-none" onclick="filterLevel('level7')">Level 7</button>
+
 </div>
 
 
